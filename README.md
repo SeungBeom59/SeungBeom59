@@ -1,5 +1,5 @@
 <!--header-->
-<h2>👋안녕하세요!준비중!</h2>
+<h2>👋안녕하세요! (준비중)</h2>
 <!--
   <div align="left">
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Denma5319&fontSize=90"/>
@@ -13,7 +13,7 @@
   </a>
   
   <a href="mailto:firetrap5319@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/firetrap5319@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white">
+    <!--<img src="https://img.shields.io/badge/firetrap5319@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white">-->
   </a>
 
 
