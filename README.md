@@ -13,7 +13,7 @@
   </a>
   
   <a href="mailto:firetrap5319@gmail.com" target="_blank">
-    <!--<img src="https://img.shields.io/badge/firetrap5319@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white">-->
+    <img src="https://img.shields.io/badge/firetrap5319@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white">
   </a>
 
 
