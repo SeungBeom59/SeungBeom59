@@ -40,11 +40,10 @@
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
   </div>  
 
-  <!--card-->
+  <!--card
   <br>
-  
   ![SeungBeom59's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungBeom59&show_icons=true&theme=dracula)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=dracula)
-  
+  -->
 </div>
     
 
