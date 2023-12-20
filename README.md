@@ -13,7 +13,7 @@
   
   <div>
   
-    <!--<a href="https://lead-line-872.notion.site/Study-323474e56358421798b46f82cc8ac1c7?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion study-000000?style=flat&logo=notion&logoColor=white&link=firetrap5319@gmail.com"></a>-->
+    
     
   <a href="mailto:firetrap5319@gmail.com" target="_blank"><img src="https://img.shields.io/badge/firetrap5319@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
   </div>
@@ -48,6 +48,7 @@
   <!--card
   <br>
   ![SeungBeom59's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungBeom59&show_icons=true&theme=dracula)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=dracula)
+  <a href="https://lead-line-872.notion.site/Study-323474e56358421798b46f82cc8ac1c7?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion study-000000?style=flat&logo=notion&logoColor=white&link=firetrap5319@gmail.com"></a>
   -->
 </div>
     
